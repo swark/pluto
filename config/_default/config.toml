@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://swark.netlify.app/"
+baseurl = "/"
 languageCode = "zh-tw"
 title = "Swark's blog"
 defaultContentLanguageInSubdir = true
