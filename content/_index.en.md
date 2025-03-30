@@ -1,8 +1,9 @@
 ---
 menu:
     main:
-        name: 主頁
+        name: Home
         weight: 1
         params:
             icon: home
+url: "/en/"
 ---

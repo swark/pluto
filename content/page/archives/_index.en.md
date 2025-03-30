@@ -1,5 +1,5 @@
 ---
-title: "典藏"
+title: "Archives"
 date: 2022-03-06
 layout: "archives"
 slug: "archives"
@@ -8,4 +8,5 @@ menu:
         weight: 2
         params: 
             icon: archives
+url: "/en/archives/"
 ---

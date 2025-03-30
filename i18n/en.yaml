@@ -1,0 +1,16 @@
+home:
+  other: "Home"
+archives:
+  other: "Archives"
+search:
+  other: "Search"
+no_results_for:
+  other: "No results for"
+categories:
+  other: "Categories"
+tags:
+  other: "Tags"
+read_more:
+  other: "Read more"
+reading_time:
+  other: "{{ .Count }} min read"
