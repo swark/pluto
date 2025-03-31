@@ -1,8 +1,8 @@
 ---
 title: "From 0 to 1: The Rise of Vibe Coding"
 date: 2025-03-30
-tags: [AI, Programming, Vibe Coding]
-categories: ["Tech Notes"]
+tags: [AI, Programming, Vibe Coding, technical notes, technology development]
+categories: ["Technological Thoughts"]
 draft: false
 description: "This article explores the rise of Vibe Coding and how AI is transforming collaborative software development."
 ---
