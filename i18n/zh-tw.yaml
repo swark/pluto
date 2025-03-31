@@ -1,0 +1,14 @@
+[readingTime]
+other = "{{ .Count }} 分鐘閱讀"
+
+[wordCount]
+other = "{{ .Count }} 字"
+
+[minute]
+other = "分鐘"
+
+[oneMinute]
+other = "1 分鐘"
+
+[lessThanXMinutes]
+other = "不到 {{ .Count }} 分鐘"
