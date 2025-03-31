@@ -1,0 +1,21 @@
+{{ define "main" }}
+  <main class="main full-width">
+    <article class="article">
+      <header class="article-header">
+        <h1 class="article-title">
+          {{ .Title }}
+        </h1>
+
+        {{ partial "article/components/meta" . }}
+      </header>
+
+      <section class="article-content">
+        {{ .Content }}
+      </section>
+
+      {{/* footer & comment 已暫時移除，未來可加回 */}}
+
+      {{ partial "article/components/related" . }}
+    </article>
+  </main>
+{{ end }}

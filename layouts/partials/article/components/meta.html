@@ -1,0 +1,13 @@
+<div class="article-meta">
+
+  {{ $readingSpeed := site.Params.readingSpeed | default 100 }}
+  {{ $minutes := math.Ceil (div .WordCount $readingSpeed) }}
+
+  {{ if gt $minutes 0 }}
+    {{ partial "helper/icon" "clock" }}
+    <time class="article-time--reading">
+      {{ $minutes }} 分鐘閱讀（{{ .WordCount }} 字）
+    </time>
+  {{ end }}
+
+</div>

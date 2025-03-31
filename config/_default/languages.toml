@@ -5,7 +5,7 @@
   title = "Swark's blog"
   weight = 1
   [zh-tw.params]
-    readingSpeed = 50
+    readingSpeed = 150
 
 [en]
   languageName = "English"
@@ -13,4 +13,4 @@
   title = "Swark's blog"
   weight = 2
   [en.params]
-    readingSpeed = 12
+    readingSpeed = 226
