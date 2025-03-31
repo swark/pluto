@@ -1,6 +1,7 @@
 ---
 title: "From 100 to 101: The Limits of AI Collaboration and Human Positioning"
 date: 2025-03-30
+weight: 1
 tags: [AI, Programming, Vibe Coding, Tech Notes, Technology Trends]
 categories: ["Tech Reflections"]
 draft: false
