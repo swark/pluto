@@ -15,6 +15,9 @@ hasCJKLanguage = true
 # Change it to your Disqus shortname before using
 disqusShortname = "hugo-theme-stack"
 
+#Google Analytic
+googleAnalytics = "G-XDLS4CN39L"
+
 [pagination]
 pagerSize = 5
 
