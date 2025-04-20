@@ -1,7 +1,6 @@
 ---
 title: "從 0 到 1：Vibe Coding 的崛起"
-date: 2025-03-30
-weight: 2
+date: 2025-03-30T00:22:16+08:00
 tags: [AI, 程式開發, Vibe Coding, 技術筆記, 科技發展]
 categories: ["科技隨想"]
 draft: false

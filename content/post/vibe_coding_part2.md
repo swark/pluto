@@ -1,7 +1,6 @@
 ---
 title: "從 100 到 101：與 AI 協作的極限與人類的定位"
-date: 2025-03-30
-weight: 1
+date: 2025-03-30T00:23:16+08:00
 tags: [AI, 程式開發, Vibe Coding, 技術筆記, 科技發展]
 categories: ["科技隨想"]
 draft: false
